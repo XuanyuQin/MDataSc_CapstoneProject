@@ -19,12 +19,12 @@ Multi-site QSM datasets with batch information and biological covariates.
 ## Project Structure
 
 ```
-├── R/                                # R scripts for data processing and harmonization
+├── R/                                # R scripts for data processing and harmonisation
 │   ├── covariates.R                  # Handles covariate extraction and processing
-│   ├── neuroComBat_harmonisation.R   # Implements NeuroCombat harmonization
-│   └── subfeatures.R                 # Processes subfeatures for ROI-based analysis
-├── visualisation_results/            # Directory for storing visualizations and analysis outputs
-│   ├── harmonisation_results/        # Visual outputs of harmonized QSM data
+│   ├── neuroComBat_harmonisation.R   # Implements neuroCombat harmonisation
+│   └── subfeatures.R                 # Processes QSM features for ROI-based analysis
+├── visualisation_results/            # Directory for storing visualisations and analysis outputs
+│   ├── harmonisation_results/        # Visual outputs of harmonised QSM data
 │   ├── qsm_features_outlier_detection/ # Plots for detecting outliers in QSM features
 │   └── statistical_results/          # Statistical analysis results, such as p-values and test statistics
 ├── README.md                         # Project documentation
