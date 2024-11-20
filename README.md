@@ -9,8 +9,8 @@ This project aims to harmonise multi-site MRI-derived quantitative susceptibilit
 - **RStudio**: Version 2024.04.1+748 (2024.04.1+748) or above
 - **[QSMxT](https://qsmxt.github.io/QSMxT/)**: 6.4.4 or above 
 - **R Packages**:
-  - ```[neuroCombat](https://github.com/Jfortin1/neuroCombat_Rpackage)```
-  - ```[ggseg](https://github.com/ggseg/ggseg)```
+  - [neuroCombat](https://github.com/Jfortin1/neuroCombat_Rpackage)
+  - [ggseg](https://github.com/ggseg/ggseg)
   - ```dplyr```
   - ```ggplot2```
 - **Input Data**:
